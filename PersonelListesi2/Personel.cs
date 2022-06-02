@@ -44,7 +44,8 @@ namespace PersonelListesi2
                     $"Giriş Tar :{GirişTarihi}\r\n" +
                     $"Maaş      :{Maaş:C2}\r\n" +
                     $"*****************************\r\n" +
-                    $"Bigi      :{Bilgi}";
+                    $"Bigi      :{Bilgi}"+
+                    "\r\n*************TEST*********+++";
             }
         }
 
